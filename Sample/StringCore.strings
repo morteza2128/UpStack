@@ -1,0 +1,24 @@
+/* 
+  StringCore.strings
+  TouchTunesTest
+
+  Created by Morteza on 10/30/18.
+  Copyright © 2018 Morteza Hosseini Zadeh. All rights reserved.
+*/
+
+//ServerGeneralErros
+"JsonFormatError"           = "Can't serialize json";
+"Unauthorized"              = "Access Denied";
+"RequestTimeOutError"       = "Ops Time out!!!!";
+"NoInternetConnectionError" = "Please check your internet connection";
+"UnknowServerError"         = "UnknowServerError";
+"CroptedData"               = "Something is wrong with Data";
+
+//ServerSuccessMessages
+"DataReceived" = "Sucess";
+"NoResult"     = "No Result";
+
+
+//SearchBar
+"SearchBarIsEmpty"     = "You want to search, at least give me one character";
+"SearchBarToManyInput" = "WoooooW, too many character, max is 50";
